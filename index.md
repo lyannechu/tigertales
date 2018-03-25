@@ -1,4 +1,4 @@
-# Welcome to TigerTales
+# Welcome to TigerTale
 
 This is a group project for COS 333: Advanced Programming Techniques. 
 
