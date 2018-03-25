@@ -105,4 +105,4 @@ Have questions? Contact us at:
 - alchu@princeton.edu
 - yap@princeton.edu
 
-and we’ll happily answer them.
+and we will happily answer them.
