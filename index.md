@@ -1,15 +1,15 @@
-## Welcome to TigerTales
+# Welcome to TigerTales
 
 This is a group project for COS 333: Advanced Programming Techniques. 
 
 # Project Leader
 Morlan Osgood
 
-# Project Members
-Sonia Hashim
-Colton Bishop
-Annette Chu
-Ben Yap
+## Project Members
+- Sonia Hashim
+- Colton Bishop
+- Annette Chu
+- Ben Yap
 
 ### Timeline and Milestones
 
@@ -94,7 +94,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Documents
 
-1. [Design Document](https://docs.google.com/document/d/1mkFGFPvzxn81FUHPdFVxHu-fqBy6l4tvZvqDCDOchWs/edit?usp=sharing)
+- [Design Document](https://docs.google.com/document/d/1mkFGFPvzxn81FUHPdFVxHu-fqBy6l4tvZvqDCDOchWs/edit?usp=sharing)
 
 ### Contact
 
